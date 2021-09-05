@@ -1,0 +1,39 @@
+h1{
+    color: white;
+    text-align: center;
+}
+#sch1 {
+   background: url("../image/show10.png");
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 900px;
+    padding-right: 50px;
+    padding-left: 50px;
+ 
+}
+
+table {
+    float: left;
+     border: 2px;
+     border-collapse: collapse;
+     width: 100%;
+     padding-left: 25px;
+     font-size: 14pt;
+ }
+
+
+th, td {
+    border-top: 2px solid rgb(197, 3, 3);
+    border-bottom: 2px solid rgb(197, 3, 3);
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(197, 3, 3);
+    color: white;
+}
+tr:nth-child(odd) {
+    color: white;
+}

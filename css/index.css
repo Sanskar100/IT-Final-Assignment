@@ -1,0 +1,85 @@
+
+#show {
+    background: url("../image/show1.png") no-repeat center center/cover;
+    height: 600%;
+}
+
+#show .show-content {
+    color: white;
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 30px;
+}
+
+#show .show-content h1{
+    font-size: 70px;
+    line-height: 1em;
+}
+#show .show-content p{
+    padding: 20px;
+    line-height: 10em;
+}
+
+#detail .box1 {
+    float: right;
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: url("../image/ss2.jpeg") no-repeat;
+    color: rgba(248, 228, 228, 0.981);
+}
+
+#detail .box2 {
+    float: left;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    line-height: 1.7em;
+    background: url("../image/rank9.png") no-repeat;
+    color:white;
+}
+#detail .box3 {
+    float: left;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    line-height: 1.5em;
+    background: url("../image/team12.jpeg") no-repeat;
+    color: white;
+   
+}
+
+#homeinfo {
+    height: 400px;
+}
+
+#homeinfo .infoimg{
+    float: left;
+    width: 50%;
+    background: url("../image/history.png") no-repeat;
+    min-height: 150%;
+    padding-bottom: 20px;
+}
+
+#homeinfo .infocontent {
+   float: right;
+   width: 50%;
+   height: 150%;
+   background: rgb(58, 53, 53);
+   color: white;
+   text-align: justify;
+   padding: 50px 20px;
+   overflow: hidden;
+}
+#homeinfo .infocontent p {
+    padding-bottom: 5px;
+}
